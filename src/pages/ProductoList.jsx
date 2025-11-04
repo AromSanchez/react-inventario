@@ -95,7 +95,7 @@ function ProductoList() {
                                         </td>
                                         <td className="px-6 py-4 whitespace-nowrap">
                                             <div className="text-sm font-semibold text-green-600">
-                                                ${producto.precio}
+                                                S/{producto.precio}
                                             </div>
                                         </td>
                                         <td className="px-6 py-4 whitespace-nowrap">
